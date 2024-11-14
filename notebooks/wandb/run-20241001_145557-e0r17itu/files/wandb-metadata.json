@@ -1,0 +1,41 @@
+{
+  "os":  "Linux-5.15.0-122-generic-x86_64-with-glibc2.17",
+  "python":  "3.8.19",
+  "startedAt":  "2024-10-01T17:56:00.268798Z",
+  "program":  "/home/nata-brain/Documents/proj/computer-vision-solutions/Vehicle_Speed_Estimation/source/notebooks/train_classification_model.ipynb",
+  "git":  {
+    "remote":  "https://github.com/nata-vito/computer-vision-solutions.git",
+    "commit":  "c4957867b9491fa805a84c195fc5a79a217c2f3a"
+  },
+  "email":  "nata14vitorino@hotmail.com",
+  "root":  "/home/nata-brain/Documents/proj/computer-vision-solutions/Vehicle_Speed_Estimation/source/notebooks",
+  "host":  "nata-brain-003",
+  "username":  "nata-brain",
+  "executable":  "/home/nata-brain/miniconda3/envs/pytorch/bin/python",
+  "codePathLocal":  "train_classification_model.ipynb",
+  "cpu_count":  16,
+  "cpu_count_logical":  24,
+  "gpu":  "[]",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "236744523776",
+      "used":  "83839909888"
+    }
+  },
+  "memory":  {
+    "total":  "134915149824"
+  },
+  "cpu":  {
+    "count":  16,
+    "countLogical":  24
+  },
+  "gpu_nvidia":  [
+    {
+      "memoryTotal":  "25769803776",
+      "cudaCores":  10496,
+      "architecture":  "Ampere"
+    }
+  ],
+  "cudaVersion":  "12.6"
+}
