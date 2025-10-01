@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+.vscode/
 
 # Distribution / packaging
 .Python
@@ -164,3 +165,7 @@ cython_debug/
 *.avi
 *.mp4
 *.mkv
+*.webm
+*.zip
+
+/Vehicle_Speed_Estimation/dataset
